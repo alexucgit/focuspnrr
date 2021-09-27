@@ -1,0 +1,522 @@
+[
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Ministro per la Pubblica Amministrazione",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.9 - Riforma della pubblica amministrazione",
+    "denominazione": "Entrata in vigore della legislazione primaria sulla governance del PNRR",
+    "trimestre": 2,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Ministro per la Pubblica Amministrazione",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.9 - Riforma della pubblica amministrazione",
+    "denominazione": "Entrata in vigore della legislazione primaria sulla semplificazione delle procedure amministrative per l'attuazione del PNRR.",
+    "trimestre": 2,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Ministro per la Pubblica Amministrazione",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1.9: Fornire assistenza tecnica e rafforzare la creazione di capacità per l'attuazione del PNRR",
+    "denominazione": "Entrata in vigore della legislazione primaria necessaria per fornire assistenza tecnica e rafforzare la creazione di capacità per l'attuazione del PNRR",
+    "trimestre": 2,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Segretariato generale",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.10 - Riforma del quadro legislativo in materia di appalti pubblici e concessioni",
+    "denominazione": "Entrata in vigore del decreto sulla semplificazione del sistema degli appalti pubblici",
+    "trimestre": 2,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M4C2",
+    "amministrazione_titolare": "Ministero dello Sviluppo Economico (MiSE)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 2.1 - IPCEI",
+    "denominazione": "Varo dell'invito a manifestare interesse per l'identificazione dei progetti nazionali, compresi i progetti IPCEI microelettronica",
+    "trimestre": 2,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M1C2",
+    "amministrazione_titolare": "Ministero degli affari esteri e della cooperazione internazionale (MAECI)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 5.1: Rifinanziame nto e ridefinizione del Fondo 394/81 gestito da SIMEST",
+    "denominazione": "Entrata in vigore del rifinanziamento del Fondo 394/81 e adozione della politica di investimento",
+    "trimestre": 3,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M2C1",
+    "amministrazione_titolare": "Ministero della transizione ecologica (MITE)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1.1 - Realizzazione nuovi impianti di gestione rifiuti e ammodernam ento di impianti esistenti",
+    "denominazione": "Entrata in vigore del decreto ministeriale finalizzato a definire i criteri di selezione dei progetti proposti dalle Municipalità",
+    "trimestre": 3,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M2C1",
+    "amministrazione_titolare": "Ministero della transizione ecologica (MITE)",
+    "tipologia_intervento": "Investimento",
+    "misura": "1.2 - Progetti \"faro\" di economia circolare",
+    "denominazione": "Entrata in vigore del decreto ministeriale finalizzato a definire i criteri di selezione dei progetti proposti dalle Municipalità",
+    "trimestre": 3,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M2C4",
+    "amministrazione_titolare": "Ministero della transizione ecologica (MITE)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1.1. Realizzazione di un sistema avanzato ed integrato di monitoraggio e previsione",
+    "denominazione": "Piano operativo per realizzare un sistema avanzato e integrato di monitoraggio e previsione per l'individuazione dei rischi idrologici",
+    "trimestre": 3,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M5C1",
+    "amministrazione_titolare": "Ministero dello Sviluppo Economico (MiSE)  in collaborazione con PCM - Dip. Pari Opportunità",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 5 - Creazione di imprese femminili",
+    "denominazione": "Adozione del fondo a sostegno dell'imprenditorialità femminile",
+    "trimestre": 3,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "MEF/RGS",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.9 - Riforma della pubblica amministrazi one",
+    "denominazione": "Sistema di archiviazione per audit e controlli: informazioni per il monitoraggio dell'attuazione dell'RRF",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Ministro per l’innovazione tecnologica e la transizione digitale (MITD)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.1: Processo di acquisto ICT",
+    "denominazione": "Entrata in vigore dei decreti-legge per la riforma 1.1 \"Processo di acquisto ICT",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Ministro per l’innovazione tecnologica e la transizione digitale (MITD)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.3: Cloud first e interoperabilit à",
+    "denominazione": "Entrata in vigore dei decreti-legge per la riforma 1.3 \"Cloud first e interoperabilità",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "Ministero della Giustizia",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.4: Riforma del processo civile",
+    "denominazione": "Entrata in vigore della legislazione attuativa per la riforma del processo civile",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "Ministero della Giustizia",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.5: Riforma del processo penale",
+    "denominazione": "Entrata in vigore della legislazione attuativa per la riforma del processo penale",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "Conseguito (legge in corso di promulgazione)"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "Ministero della Giustizia",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.6: Riforma del quadro in materia di insolvenza",
+    "denominazione": "Entrata in vigore della legislazione attuativa per la riforma del quadro in materia di insolvenza",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "Ministero della Giustizia",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1.8 - Procedure di assunzione per i tribunali civili, penali e amministrativi",
+    "denominazione": "Entrata in vigore della legislazione speciale che disciplina le assunzioni nell'ambito del Piano Nazionale di Ripresa e Resilienza",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Ministro per la Pubblica Amministrazione",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1.9: Fornire assistenza tecnica e rafforzare la creazione di capacità per l'attuazione del PNRR",
+    "denominazione": "Completamento dell'assunzione degli esperti per l'attuazione del PNRR",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Ministro per la Pubblica Amministrazione",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.9 - Riforma della pubblica amministrazi one",
+    "denominazione": "Per aumentare l'assorbimento degli investimenti, estendere al fondo complementare la metodologia adottata per il PNRR",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "PCM - Segretariato generale",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.10 - Riforma del quadro legislativo in materia di appalti pubblici e concessioni",
+    "denominazione": "Approvazione di provvedimenti attuativi per il settore degli appalti pubblici",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "Ministero dell'Economia e delle Finanze (MEF)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.13 - Riforma del quadro di revisione della spesa pubblica (\"spending review\")",
+    "denominazione": "Entrata in vigore delle disposizioni legislative per migliorare l'efficacia della revisione della spesa - Rafforzamento del Ministero delle Finanze",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C1",
+    "amministrazione_titolare": "Ministero dell'Economia e delle Finanze (MEF)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.12 - Riforma dell'amministrazione fiscale",
+    "denominazione": "Adozione di una revisione dei possibili interventi per ridurre l'evasione fiscale",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M4C2",
+    "amministrazione_titolare": "Ministero dello Sviluppo Economico (MiSE)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1 - Transizione 4.0",
+    "denominazione": "Entrata in vigore degli atti giuridici per mettere i crediti d'imposta Transizione 4.0 a disposizione dei potenziali beneficiari e istituzione del comitato scientifico",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C3",
+    "amministrazione_titolare": "Ministero del Turismo (MiTur)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 4.1- Hub del turismo digitale",
+    "denominazione": "Aggiudicazione degli appalti per lo sviluppo del portale del turismo digitale",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M2C2",
+    "amministrazione_titolare": "Ministero della transizione ecologica (MITE)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.2 - Nuova normativa per la promozione della produzione e del consumo di gas rinnovabile",
+    "denominazione": "Entrata in vigore di un decreto legislativo teso a promuovere l'utilizzo del gas rinnovabile per l'utilizzo del biometano nei settori dei trasporti, industriale e residenziale e di un decreto attuativo che definisca le condizioni e criteri relativi al suo utilizzo e al nuovo sistema di incentivi.",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M2C2",
+    "amministrazione_titolare": "Ministero delle infrastrutture e della mobilità sostenibili (MIMS)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 4.1: Procedure più rapide per la valutazione dei progetti nel settore dei sistemi di trasporto pubblico locale con impianti fissi e nel settore del trasporto rapido di massa",
+    "denominazione": "Entrata in vigore di un decreto-legge che introduce le modifiche procedurali previste dalla misura",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M2C2",
+    "amministrazione_titolare": "Ministero delle infrastrutture e della mobilità sostenibili (MIMS) in collaborazione con MISE e in sinergia con MITE",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 5.3 - Bus elettrici",
+    "denominazione": "Entrata in vigore di un decreto ministeriale che individua l'ammontare delle risorse disponibili per raggiungere lo scopo dell'intervento (filiera degli autobus) ovvero il finanziamento di progetti di trasformazione dell'industria di produzione di autobus per la produzione di veicoli elettrici.",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M2C3",
+    "amministrazione_titolare": "Ministero della transizione ecologica (MITE)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 2.1- Rafforzament o dell'Ecobonus e del Sisma bonus per l'efficienza energetica e la sicurezza degli edifici.",
+    "denominazione": "Entrata in vigore della proroga del Superbonus",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M2C4",
+    "amministrazione_titolare": "Ministero della transizione ecologica (MITE)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 4.2 - Misure per garantire la piena capacità gestionale per i servizi idrici integrati",
+    "denominazione": "Riforma del quadro giuridico per una migliore gestione e un uso sostenibile dell'acqua",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M3C2",
+    "amministrazione_titolare": "Ministero dell'Economia e delle Finanze (MEF) / MIMS",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 2.1 - Attuazione di uno \"Sportello Unico Doganale",
+    "denominazione": "Entrata in vigore del decreto riguardante lo Sportello Unico Doganale. Il decreto deve definire i metodi e le specifiche dello Sportello Unico Doganale in conformità al regolamento (UE) n. 1239/2019 relativo all'attuazione dell'interfaccia unica marittima europea e al regolamento (UE) 2020/1056 del Parlamento europeo e del Consiglio, del 15 luglio 2020, relativo alle informazioni elettroniche sul trasporto merci (eFTI).",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M4C1",
+    "amministrazione_titolare": "Ministero dell'Università e della Ricerca (MUR)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.5: Riforma delle classi di laurea; Riforma 1.6: Riforma delle lauree abilitanti per determinate professioni; Riforma 4.1: Riforma dei dottorati",
+    "denominazione": "Entrata in vigore delle riforme del sistema di istruzione terziaria al fine di migliorare i risultati scolastici (legislazione primaria) in materia di: a) lauree abilitanti; b) classi di laurea; c) riforma dei dottorati.",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M4C1",
+    "amministrazione_titolare": "Ministero dell'Università e della Ricerca (MUR)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1.7 - Borse di studio per l'accesso all'università",
+    "denominazione": "Entrata in vigore di decreti ministeriali di riforma delle borse di studio al fine di migliorare l'accesso\nall'istruzione terziaria.",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M5C1",
+    "amministrazione_titolare": "Ministero del lavoro e delle politiche sociali (MLPS)/ANPAL",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1- ALMPS e formazione professionale",
+    "denominazione": "Entrata in vigore della normativa che istituisce il programma nazionale \"Garanzia di occupabilità dei lavoratori\" (GOL) e di un decreto interministeriale che istituisce il Piano Nazionale Nuove Competenze",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M5C2",
+    "amministrazione_titolare": "PCM Dip. Disabilità",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1 - Legge quadro sulle disabilità",
+    "denominazione": "Entrata in vigore della legge quadro per rafforzare l'autonomia delle persone con disabilità",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M5C2",
+    "amministrazione_titolare": "Ministero del lavoro e delle politiche sociali (MLPS)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1 - Sostegno alle persone vulnerabili e prevenzione dell'istituzion alizzazione degli anziani non autosufficienti",
+    "denominazione": "Entrata in vigore del piano operativo in cui vengano definiti  i requisiti dei progetti finalizzati a fornire servizi alle persone vulnerabili e che saranno presentati dagli enti locali",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C2",
+    "amministrazione_titolare": "Ministero degli affari esteri e della cooperazione internazionale (MAECI)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 5.1: Rifinanziame nto e ridefinizione del Fondo 394/81 gestito da SIMEST",
+    "denominazione": "Almeno altre 4 000 PMI dovranno fruire del sostegno  del Fondo 394/81.",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M3C1",
+    "amministrazione_titolare": "Ministero delle infrastrutture e della mobilità sostenibili (MIMS)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.1 - Accelerazion e dell'iter di approvazione del contratto tra MIMS e RFI",
+    "denominazione": "Entrata in vigore di una modifica legislativa sull'iter di approvazione dei Contratti di Programma (CdP)",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M3C1",
+    "amministrazione_titolare": "Ministero delle infrastrutture e della mobilità sostenibili (MIMS)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.2 – Accelerazion e dell'iter di approvazione dei progetti ferroviari",
+    "denominazione": "Entrata in vigore di una modifica normativa che riduca la durata dell'iter di autorizzazione dei progetti da 11 a 6 mesi.",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M3C1",
+    "amministrazione_titolare": "Ministero delle infrastrutture e della mobilità sostenibili (MIMS)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 2.1 - Attuazione del recente \"Decreto Semplificazio ni\" (convertito nella legge 11 settembre 2020, n. 120) mediante l'emanazione di un decreto relativo all'attuazione di \"Linee guida per la classificazion e e gestione del rischio, la valutazione della sicurezza e il monitoraggio dei ponti esistenti",
+    "denominazione": "Entrata in vigore delle \"Linee guida per la classificazione e gestione del rischio, la valutazione della sicurezza e il monitoraggio dei ponti esistenti",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M3C1",
+    "amministrazione_titolare": "Ministero delle infrastrutture e della mobilità sostenibili (MIMS)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 2.2 – Trasferimento della titolarità di ponti e viadotti delle strade di secondo livello ai titolari delle strade di primo livello",
+    "denominazione": "Disposizione nell'atto giuridico pertinente relativa all'entrata in vigore del trasferimento della titolarità di ponti, viadotti e cavalcavia dalle strade di secondo livello a quelle di primo livello (autostrade e principali strade nazionali)",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C3",
+    "amministrazione_titolare": "Ministero del Turismo (MiTur)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 4.2 - Fondi integrati per la competitività delle imprese turistiche",
+    "denominazione": "Norma per la definizione della politica di investimento per il Fondo tematico della Banca europea per gli investimenti",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C3",
+    "amministrazione_titolare": "Ministero del Turismo (MiTur)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 4.2 - Fondi integrati per la competitività delle imprese turistiche",
+    "denominazione": "Norma per la definizione della politica  di investimento per il Fondo nazionale del turismo",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C3",
+    "amministrazione_titolare": "Ministero del Turismo (MiTur)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 4.2 - Fondi integrati per la competitività delle imprese turistiche",
+    "denominazione": "Norma per la definizione della politica  di investimento per il Fondo di garanzia per le PMI",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C3",
+    "amministrazione_titolare": "Ministero del Turismo (MiTur)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 4.2 - Fondi integrati per la competitività delle imprese turistiche",
+    "denominazione": "Norma per la definizione della politica  di investimento per il Fondo rotativo",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M1C3",
+    "amministrazione_titolare": "Ministero del Turismo (MiTur)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 4.2 - Fondi integrati per la competitività delle imprese turistiche",
+    "denominazione": "Entrata in vigore del decreto attuativo per il credito d'imposta per la riqualificazione delle strutture ricettive",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M2C4",
+    "amministrazione_titolare": "Ministero della transizione ecologica (MITE)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 3.1: Adozione di programmi nazionali di controllo dell'inquinam ento atmosferico",
+    "denominazione": "Entrata in vigore di un programma nazionale di controllo dell'inquinamento atmosferico",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M2C4",
+    "amministrazione_titolare": "PCM - Dip. Protezione civile",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 2.1.b - Misure per la gestione del rischio di alluvione e per la riduzione del rischio idrogeologico",
+    "denominazione": "Entrata in vigore del quadro giuridico rivisto per interventi contro i rischi di alluvione e idrogeologici",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M2C4",
+    "amministrazione_titolare": "Ministero della transizione ecologica (MITE)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 3.1: Tutela e valorizzazion e del verde urbano ed extraurbano",
+    "denominazione": "Entrata in vigore delle modifiche legislative rivedute per la protezione e la valorizzazione delle aree verdi urbane ed extra urbane",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M4C1",
+    "amministrazione_titolare": "Ministero dell'Università e della Ricerca (MUR)",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1.7: Riforma della legislazione sugli alloggi per studenti e investimenti negli alloggi per studenti",
+    "denominazione": "Entrata in vigore della legislazione volta a modificare le norme vigenti in materia di alloggi per studenti.",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M5C3",
+    "amministrazione_titolare": "PCM - Ministro per il Sud e la coesione territoriale",
+    "tipologia_intervento": "Riforma",
+    "misura": "Riforma 1: Semplificazio ne delle procedure e rafforzamento dei poteri del Commissario nelle Zone Economiche Speciali",
+    "denominazione": "Entrata in vigore del regolamento per la semplificazione delle procedure e il rafforzamento del ruolo del Commissario nelle Zone Economiche Speciali",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "conseguito"
+  },
+  {
+    "missione": "M5C3",
+    "amministrazione_titolare": "Ministero delle infrastrutture e della mobilità sostenibili (MIMS) in collaborazione con PCM - Ministro per il Sud e la coesione territoriale",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1.4 - Investimenti infrastruttural i per le Zone Economiche Speciali",
+    "denominazione": "Entrata in vigore dei decreti ministeriali di approvazione del piano operativo per tutte e otto le Zone Economiche Speciali",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  },
+  {
+    "missione": "M6C2",
+    "amministrazione_titolare": "Ministero della Salute (MS)",
+    "tipologia_intervento": "Investimento",
+    "misura": "Investimento 1.1: Ammoderna mento del parco tecnologico e digitale ospedaliero",
+    "denominazione": "Piano di riorganizzazione del parco tecnologico e digitale delle strutture ospedaliere approvato dal Ministero della Salute/Regioni italiane",
+    "trimestre": 4,
+    "anno": 2021,
+    "stato_attuazione": "in corso"
+  }
+]
